@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="loading_dark_theme_customization_account">
+        <item>.primary:@sud_system_accent1_200</item>
+        <item>.primaryFixedDim:@sud_system_accent1_200</item>
+        <item>.outlineVariant:@sud_system_neutral2_700</item>
+        <item>.secondary:@sud_system_accent2_200</item>
+        <item>.tertiary:@sud_system_accent3_200</item>
+        <item>.tertiaryFixed:@sud_system_accent3_100</item>
+    </string-array>
+    <string-array name="loading_dark_theme_customization_connection">
+        <item>.primary:@sud_system_accent1_200</item>
+        <item>.primaryFixedDim:@sud_system_accent1_200</item>
+        <item>.outlineVariant:@sud_system_neutral2_700</item>
+        <item>.secondary:@sud_system_accent2_200</item>
+        <item>.tertiary:@sud_system_accent3_200</item>
+        <item>.tertiaryFixed:@sud_system_accent3_100</item>
+    </string-array>
+    <string-array name="loading_dark_theme_customization_default">
+        <item>.primary:@sud_system_accent1_200</item>
+        <item>.primaryFixedDim:@sud_system_accent1_200</item>
+        <item>.outlineVariant:@sud_system_neutral2_700</item>
+        <item>.secondary:@sud_system_accent2_200</item>
+        <item>.tertiary:@sud_system_accent3_200</item>
+        <item>.tertiaryFixed:@sud_system_accent3_100</item>
+    </string-array>
+    <string-array name="loading_dark_theme_customization_final_hold">
+        <item>.primary:@sud_system_accent1_200</item>
+        <item>.primaryFixedDim:@sud_system_accent1_200</item>
+        <item>.outlineVariant:@sud_system_neutral2_700</item>
+        <item>.secondary:@sud_system_accent2_200</item>
+        <item>.tertiary:@sud_system_accent3_200</item>
+        <item>.tertiaryFixed:@sud_system_accent3_100</item>
+    </string-array>
+    <string-array name="loading_dark_theme_customization_update">
+        <item>.primary:@sud_system_accent1_200</item>
+        <item>.primaryFixedDim:@sud_system_accent1_200</item>
+        <item>.outlineVariant:@sud_system_neutral2_700</item>
+        <item>.secondary:@sud_system_accent2_200</item>
+        <item>.tertiary:@sud_system_accent3_200</item>
+        <item>.tertiaryFixed:@sud_system_accent3_100</item>
+    </string-array>
+    <string-array name="loading_light_theme_customization_account">
+        <item>.primary:@sud_system_accent1_600</item>
+        <item>.primaryFixedDim:@sud_system_accent1_200</item>
+        <item>.outlineVariant:@sud_system_neutral2_200</item>
+        <item>.secondary:@sud_system_accent2_600</item>
+        <item>.tertiary:@sud_system_accent3_600</item>
+        <item>.tertiaryFixed:@sud_system_accent3_100</item>
+    </string-array>
+    <string-array name="loading_light_theme_customization_connection">
+        <item>.primary:@sud_system_accent1_600</item>
+        <item>.primaryFixedDim:@sud_system_accent1_200</item>
+        <item>.outlineVariant:@sud_system_neutral2_200</item>
+        <item>.secondary:@sud_system_accent2_600</item>
+        <item>.tertiary:@sud_system_accent3_600</item>
+        <item>.tertiaryFixed:@sud_system_accent3_100</item>
+    </string-array>
+    <string-array name="loading_light_theme_customization_default">
+        <item>.primary:@sud_system_accent1_600</item>
+        <item>.primaryFixedDim:@sud_system_accent1_200</item>
+        <item>.outlineVariant:@sud_system_neutral2_200</item>
+        <item>.secondary:@sud_system_accent2_600</item>
+        <item>.tertiary:@sud_system_accent3_600</item>
+        <item>.tertiaryFixed:@sud_system_accent3_100</item>
+    </string-array>
+    <string-array name="loading_light_theme_customization_final_hold">
+        <item>.primary:@sud_system_accent1_600</item>
+        <item>.primaryFixedDim:@sud_system_accent1_200</item>
+        <item>.outlineVariant:@sud_system_neutral2_200</item>
+        <item>.secondary:@sud_system_accent2_600</item>
+        <item>.tertiary:@sud_system_accent3_600</item>
+        <item>.tertiaryFixed:@sud_system_accent3_100</item>
+    </string-array>
+    <string-array name="loading_light_theme_customization_update">
+        <item>.primary:@sud_system_accent1_600</item>
+        <item>.primaryFixedDim:@sud_system_accent1_200</item>
+        <item>.outlineVariant:@sud_system_neutral2_200</item>
+        <item>.secondary:@sud_system_accent2_600</item>
+        <item>.tertiary:@sud_system_accent3_600</item>
+        <item>.tertiaryFixed:@sud_system_accent3_100</item>
+    </string-array>
+    <string-array name="welcome_animation_customization">
+        <item>.primary:@sud_system_accent1_600</item>
+        <item>.tertiary:@sud_system_accent3_600</item>
+        <item>.black:#00000000</item>
+    </string-array>
+</resources>

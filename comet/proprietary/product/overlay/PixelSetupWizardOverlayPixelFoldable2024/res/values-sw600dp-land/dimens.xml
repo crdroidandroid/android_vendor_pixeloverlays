@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bc_welcome_content_container_padding_start">24.0dip</dimen>
+    <dimen name="bc_welcome_expandable_min_height">72.0dip</dimen>
+    <dimen name="portal_setup_header_margin_top">72.0dip</dimen>
+    <dimen name="portal_setup_margin_end">64.0dip</dimen>
+    <dimen name="portal_setup_margin_start">64.0dip</dimen>
+    <dimen name="setup_compat_footer_bar_padding_end">44.0dip</dimen>
+    <dimen name="setup_compat_footer_bar_padding_start">32.0dip</dimen>
+    <dimen name="setup_design_content_padding_top">104.0dip</dimen>
+    <dimen name="setup_design_land_middle_horizontal_spacing">48.0dip</dimen>
+    <dimen name="setup_design_layout_margin_end">48.0dip</dimen>
+    <dimen name="setup_design_layout_margin_start">48.0dip</dimen>
+</resources>

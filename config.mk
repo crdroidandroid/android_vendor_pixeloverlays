@@ -1,4 +1,5 @@
 # 2024 risingOS
+# 2025 crDroid Android Project
 
 # Pixel overlays
 ifeq ($(WITH_GMS),true)
@@ -19,6 +20,10 @@ endif
 
 ifneq (,$(filter cheetah,$(LINEAGE_BUILD)))
 include vendor/pixeloverlays/cheetah/cheetah-vendor.mk
+endif
+
+ifneq (,$(filter comet,$(LINEAGE_BUILD)))
+include vendor/pixeloverlays/comet/comet-vendor.mk
 endif
 
 ifneq (,$(filter husky,$(LINEAGE_BUILD)))

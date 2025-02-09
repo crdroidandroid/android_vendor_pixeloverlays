@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="comet_unfolded_config_use_split_notification_shade">true</bool>
+    <bool name="config_adaptive_touch_sensitivity_enabled">true</bool>
+    <bool name="config_letterboxIsReachabilityEducationEnabled">true</bool>
+    <bool name="config_letterboxIsRestartDialogEnabled">true</bool>
+    <bool name="config_notificationToContents">true</bool>
+    <bool name="config_screen_protector_notification_enabled">true</bool>
+    <bool name="config_vibrateOnIconAnimation">true</bool>
+    <bool name="use_custom_bp_size">true</bool>
+</resources>

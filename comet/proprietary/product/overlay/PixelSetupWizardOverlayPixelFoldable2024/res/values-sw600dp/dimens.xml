@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="suggested_actions_grid_tile_spacing">8.0dip</dimen>
+    <dimen name="bc_welcome_content_container_padding_end">64.0dip</dimen>
+    <dimen name="bc_welcome_content_container_padding_start">24.0dip</dimen>
+    <dimen name="bc_welcome_expandable_min_height">72.0dip</dimen>
+    <dimen name="loading_layout_content_padding_bottom">0.0dip</dimen>
+    <dimen name="loading_layout_content_padding_end">0.0dip</dimen>
+    <dimen name="loading_layout_content_padding_start">0.0dip</dimen>
+    <dimen name="loading_layout_content_padding_top">0.0dip</dimen>
+    <dimen name="portal_options_grid_minimum_width">155.0dip</dimen>
+    <dimen name="portal_progress_title_text_size">36.0sp</dimen>
+    <dimen name="portal_setup_content_margin_top">72.0dip</dimen>
+    <dimen name="portal_setup_header_margin_top">72.0dip</dimen>
+    <dimen name="portal_setup_margin_end">64.0dip</dimen>
+    <dimen name="portal_setup_margin_middle">24.0dip</dimen>
+    <dimen name="portal_setup_margin_start">64.0dip</dimen>
+    <dimen name="portal_setup_title_text_size">36.0sp</dimen>
+    <dimen name="portal_setup_toolbar_margin_bottom">24.0dip</dimen>
+    <dimen name="setup_compat_footer_bar_padding_end">44.0dip</dimen>
+    <dimen name="setup_compat_footer_bar_padding_start">32.0dip</dimen>
+    <dimen name="setup_design_content_padding_top">104.0dip</dimen>
+    <dimen name="setup_design_header_auto_size_max_text_size">36.0sp</dimen>
+    <dimen name="setup_design_header_text_size">36.0sp</dimen>
+    <dimen name="setup_design_icon_margin_top">32.0dip</dimen>
+    <dimen name="setup_design_items_summary_text_size">14.0sp</dimen>
+    <dimen name="setup_design_land_middle_horizontal_spacing">48.0dip</dimen>
+    <dimen name="setup_design_layout_margin_end">48.0dip</dimen>
+    <dimen name="setup_design_layout_margin_start">48.0dip</dimen>
+    <dimen name="suggested_actions_grid_minimum_width">150.0dip</dimen>
+    <dimen name="welcome_title_text_size">56.0dip</dimen>
+</resources>

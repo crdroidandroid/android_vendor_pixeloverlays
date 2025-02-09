@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_adaptive_touch_sensitivity_enabled">true</bool>
+    <bool name="config_auto_rotate_face_detection_available">false</bool>
+    <bool name="config_face_enroll_confirmation_show_bypass_pref">true</bool>
+    <bool name="config_psim_conversion_menu_enabled">true</bool>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_acquired_immobile">(M)[Ŕéþöšîţîöñ ƒîñĝéŕ. Ýöû åļŕéåðý ţöûçĥéð ŵîţĥ ţĥîš åŕéå öƒ ýöûŕ ƒîñĝéŕþŕîñţ. one two three four five six seven eight]</string>
+    <string name="fingerprint_acquired_immobile_short">(M)[Ŕéþöšîţîöñ ƒîñĝéŕ. Ýöû åļŕéåðý ţöûçĥéð ŵîţĥ ţĥîš åŕéå. one two three four five six seven]</string>
+</resources>

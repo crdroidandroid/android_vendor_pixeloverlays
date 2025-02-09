@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="config_activity_embed_split_ratio">0.5</item>
+    <dimen name="immobile_dialog_height">246.0dip</dimen>
+    <dimen name="immobile_dialog_width">406.0dip</dimen>
+</resources>

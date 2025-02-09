@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<array xmlns:android="http://schemas.android.com/apk/res/android" xmlns:suw="http://schemas.android.com/apk/res/com.google.android.setupwizard" suw:maxItemCount="10">
+    <!-- Tag usage description:
+        1) suw:lifecycle, makes the component shown on the specific lifecycle of the Suw.
+               The value can be default or deferred. If no set, the component will be shown for both
+               initial and deferred.
+        2) android:isRepeatable, means the component can be implemented for different implementers.
+               The Value can be true or false. if no set, only the implementer with the highest
+               priority will be shown.
+     -->
+    <!-- For translate -->
+    <action android:category="com.android.settings.suggested.category.TRANSLATE" android:isRepeatable="true"/>
+    <action android:category="com.android.settings.suggested.category.MUSIC_RECOGNITION" android:isRepeatable="true"/>
+    <action android:category="com.android.settings.suggested.category.LOCK_SCREEN_REDACTION" android:isRepeatable="true"/>
+    <!--For adaptive features -->
+    <action android:category="com.android.settings.suggested.category.ADAPTIVE_FEATURES" android:isRepeatable="true"/>
+    <!-- Launch emergency info setup page -->
+    <action android:category="com.android.settings.suggested.category.EMERGENCY_INFO" android:isRepeatable="true"/>
+    <!-- For text and reading options -->
+    <action android:category="com.android.settings.suggested.category.DISPLAY_SETTINGS" android:isRepeatable="true"/>
+    <action android:category="com.android.settings.suggested.category.EMAIL" android:isRepeatable="true"/>
+    <action android:category="com.android.settings.suggested.category.PAI" suw:lifecycle="default"/>
+    <!-- For always-on display -->
+    <action android:category="com.android.settings.suggested.category.ALWAYS_ON_DISPLAY" android:isRepeatable="true"/>
+    <!-- Action to enroll more fingerprints, even if existing lock screen is set -->
+    <action android:category="com.android.settings.suggested.category.FINGERPRINT_ENROLL" suw:lifecycle="deferred"/>
+</array>
